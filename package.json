@@ -1,0 +1,21 @@
+{
+  "name": "@vaporlogicgp/sdk-analytics-helper",
+  "version": "1.0.0",
+  "description": "Lightweight wrapper for common analytics SDK patterns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaporlogic/sdk-analytics-helper.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "analytics",
+    "sdk",
+    "telemetry",
+    "tracking"
+  ],
+  "author": "analytics-oss",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
